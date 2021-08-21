@@ -23,6 +23,11 @@
 - https://www.linkedin.com/in/maksim-tropnikov
 - https://t.me/tropnikov  
 
+### CV
+* [HH](https://novosibirsk.hh.ru/resume/9803f6c3ff07f93bae0039ed1f4a7351586950)
+* [Career.Habr](https://career.habr.com/totmaks)
+* [Notion](https://tropnikov.notion.site/CV-cce9a074ac4741208a2bf1e8de7f6a57)
+
 [![Tropnikov GitHub stats](https://github-readme-stats.vercel.app/api?username=tropnikov&count_private=true&show_icons=true&hide=contribs,issues)
 ](https://github-readme-stats.vercel.app/api?username=tropnikov&count_private=true&show_icons=true)  
 

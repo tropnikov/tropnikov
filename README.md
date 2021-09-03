@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 My name is Makim
 
-### My name is Makim Tropnikov and I'm looking for a job as a Frontend Developer (either office or remote).
+### I'm looking for a job as a Frontend Developer (either office or remote).
 
 - 💻 Currently studying frontend at Yandex.Praktikum
 - 👨‍🎓 Graduated from Novosibirsk State University (MSc in Physics)
@@ -16,7 +16,8 @@
 - Webpack
 - Figma
 - VS Code
-<!-- - React -->
+<!-- - React.js -->
+<!-- - Node.js -->
 
 ### Contacts
 - maks.tropnikov@gmail.com

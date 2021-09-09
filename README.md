@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Makim
+## Hi there 👋 My name is Maksim
 
 ## I'm looking for a job as a Frontend Developer (either office or remote).
 

@@ -4,7 +4,7 @@
 
 - 💻 Currently studying frontend development at [Yandex.Practicum](https://practicum.yandex.ru)
 - 👨‍🎓 Graduated from Novosibirsk State University (MSc in Physics)
-- 😍 Always like to program, so decided to switch to frontend
+- 😍 Always liked programming, so decided to switch to frontend
 - 📍 Live in Novosibirsk, Russia, but also consider relocating to St. Petersburg  
 
 ### More detailed and glowing description😅 :  

@@ -7,7 +7,7 @@
 - 😍 Always liked programming, so decided to switch to frontend
 - 📍 Live in Novosibirsk, Russia, but also consider relocating to St. Petersburg  
 
-### More detailed and glowing description😅 :  
+### More detailed description 😃 :  
 
 I work as a junior researcher for now. In Physics, I gained expertise in theoretical and experimental research in the fields of laser physics, laser cooling, frequency standards and stabilization techniques.
 My research involved designing and implementing thermostabilization system based on LabVIEW and using ADC-DAC, and theoretical modeling in MatLab of laser fields interacting with cooled atoms.  
@@ -22,17 +22,30 @@ I studied frontend at Udemy courses, and now I am studying it at Yandex.Practicu
 
 ## Skills
 
-![HTML](https://img.shields.io/badge/HTML-5F8B9F?style=for-the-badge&logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS-5F8B9F?style=for-the-badge&logo=css3)  
-![JS](https://img.shields.io/badge/-JavaScript-5F8B9F?style=for-the-badge&logo=javascript)  
-![Git](https://img.shields.io/badge/-Git-5F8B9F?style=for-the-badge&logo=git)  
-![React.js](https://img.shields.io/badge/-React.js-5F8B9F?style=for-the-badge&logo=react)  
-![Webpack](https://img.shields.io/badge/-Webpack-5F8B9F?style=for-the-badge&logo=webpack)  
-![NPM](https://img.shields.io/badge/-NPM-5F8B9F?style=for-the-badge&logo=npm)  
-![OOP](https://img.shields.io/badge/-OOP-5F8B9F?style=for-the-badge&logo=oop)  
-![BEM](https://img.shields.io/badge/-BEM-5F8B9F?style=for-the-badge&logo=BEM)  
-![VS Code](https://img.shields.io/badge/-VS_Code-5F8B9F?style=for-the-badge&logo=visualstudiocode)   
-![Figma](https://img.shields.io/badge/-Figma-5F8B9F?style=for-the-badge&logo=figma)
+![HTML](https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5)  
+![CSS](https://img.shields.io/badge/-CSS-20232A?style=for-the-badge&logo=css3)  
+![JS](https://img.shields.io/badge/-JavaScript-20232A?style=for-the-badge&logo=javascript)  
+![Git](https://img.shields.io/badge/-Git-20232A?style=for-the-badge&logo=git)  
+![React.js](https://img.shields.io/badge/-React.js-20232A?style=for-the-badge&logo=react)  
+![NPM](https://img.shields.io/badge/-NPM-20232A?style=for-the-badge&logo=npm)  
+![Webpack](https://img.shields.io/badge/-Webpack-20232A?style=for-the-badge&logo=webpack)  
+![Babel](https://img.shields.io/badge/-Babel-20232A?style=for-the-badge&logo=babel)  
+![PostCSS](https://img.shields.io/badge/-PostCSS-20232A?style=for-the-badge&logo=postcss)  
+![OOP](https://img.shields.io/badge/-OOP-20232A?style=for-the-badge&logo=oop)  
+![BEM](https://img.shields.io/badge/-BEM-20232A?style=for-the-badge&logo=BEM)  
+![VS Code](https://img.shields.io/badge/-VS_Code-20232A?style=for-the-badge&logo=visualstudiocode)   
+![Figma](https://img.shields.io/badge/-Figma-20232A?style=for-the-badge&logo=figma)
+
+
+### Want to work with  
+
+![React.js](https://img.shields.io/badge/-React.js-20232A?style=for-the-badge&logo=react)  
+![Angular](https://img.shields.io/badge/-Angular-20232A?style=for-the-badge&logo=angular)  
+![Node.js](https://img.shields.io/badge/-Node.js-20232A?style=for-the-badge&logo=node.js)  
+
+
+<!--5F8B9F-->
+
 
 <!--
 - HTML

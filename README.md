@@ -41,7 +41,9 @@ I studied frontend at Udemy courses, and now I am studying it at Yandex.Practicu
 
 ![React.js](https://img.shields.io/badge/-React.js-20232A?style=for-the-badge&logo=react)  
 ![Angular](https://img.shields.io/badge/-Angular-20232A?style=for-the-badge&logo=angular)  
+![Typescript](https://img.shields.io/badge/-Typescript-20232A?style=for-the-badge&logo=typescript)  
 ![Node.js](https://img.shields.io/badge/-Node.js-20232A?style=for-the-badge&logo=node.js)  
+
 
 
 <!--5F8B9F-->
@@ -69,7 +71,7 @@ I studied frontend at Udemy courses, and now I am studying it at Yandex.Practicu
 ## CV
 * [HH](https://novosibirsk.hh.ru/resume/9803f6c3ff07f93bae0039ed1f4a7351586950)
 * [Career.Habr](https://career.habr.com/totmaks)
-* [Notion](https://tropnikov.notion.site/CV-cce9a074ac4741208a2bf1e8de7f6a57)
+<!-- * [Notion](https://tropnikov.notion.site/CV-cce9a074ac4741208a2bf1e8de7f6a57) -->
 
 ## Statistics  
 

@@ -6,7 +6,7 @@
 - 💻 Studied frontend development at [Yandex.Practicum](https://practicum.yandex.ru)
 - 📍 Live in Novosibirsk, Russia 🇷🇺  but also consider relocating to St. Petersburg or Europe 🇳🇱 🇩🇪
 
-Interested both in front-end and full-stack in JavaScript. Currently deepening my knowledge in React and Angular, and studying algorithms.
+Interested both in front-end and full-stack development in JavaScript. Currently deepening my knowledge in React and Angular, and studying algorithms.
 
 My main stack (~~is MERN but not limited~~):
 - HTML, CSS  

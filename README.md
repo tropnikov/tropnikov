@@ -2,9 +2,12 @@
 
 - 🏢 Frontend Developer at R-Style Softlab
 - ⚛️ Switched to frontend from science
-- 👨‍🎓 Graduated from Novosibirsk State University (MSc in Physics) and Institute of Laser Physics SB RAS (put on hold PhD thesis in Optics)
-- 💻 Studied frontend development at [Yandex.Practicum](https://practicum.yandex.ru)
+- 👨‍🎓 Graduated from Novosibirsk State University (MSc in Physics) and Institute of Laser Physics SB RAS (put on hold PhD dissertation in Optics)
+- 💻 Studied frontend development at [Yandex.Practicum](https://practicum.yandex.ru) (started in 2021)
 - 📍 Live in Novosibirsk, Russia 🇷🇺  but also consider relocating to St. Petersburg or Europe 🇳🇱 🇩🇪
+- ✉️ You can reach me at maks.tropnikov@gmail.com
+
+**My CV: [Maksim Tropnikov.pdf](https://github.com/tropnikov/tropnikov/files/8053453/Maksim.Tropnikov.pdf)**
 
 Interested both in front-end and full-stack development in JavaScript. Currently deepening my knowledge in React and Angular, and studying algorithms.
 
@@ -41,9 +44,9 @@ Previously working as a junior researcher in physics (optics, to be specific), I
 - Telegram: https://t.me/tropnikov  
 
 ## CV
-* HeadHunter: https://novosibirsk.hh.ru/resume/9803f6c3ff07f93bae0039ed1f4a7351586950
+* HeadHunter: https://novosibirsk.hh.ru/resume/a2b52938ff09aca2760039ed1f394a366b664d
 * Habr Career: https://career.habr.com/totmaks
-<!-- * [Notion](https://tropnikov.notion.site/CV-cce9a074ac4741208a2bf1e8de7f6a57) -->
+<!-- HeadHunter: https://novosibirsk.hh.ru/resume/9803f6c3ff07f93bae0039ed1f4a7351586950 -->
 
 ## Statistics  
 

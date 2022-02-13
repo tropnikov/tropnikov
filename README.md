@@ -7,7 +7,8 @@
 - 📍 Live in Novosibirsk, Russia 🇷🇺  but also consider relocating to St. Petersburg or Europe 🇳🇱 🇩🇪
 - ✉️ You can reach me at maks.tropnikov@gmail.com
 
-**My CV: [Maksim Tropnikov.pdf](https://github.com/tropnikov/tropnikov/files/8053453/Maksim.Tropnikov.pdf)**
+**My CV: [Maksim Tropnikov.pdf](https://raw.githubusercontent.com/tropnikov/tropnikov/master/Maksim-Tropnikov.pdf)**
+
 
 Interested both in front-end and full-stack development in JavaScript. Currently deepening my knowledge in React and Angular, and studying algorithms.
 

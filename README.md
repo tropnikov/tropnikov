@@ -1,10 +1,10 @@
 # Hi there 👋 I'm Maksim
 
-- 🏢 Frontend Developer at R-Style Softlab
+- 🏢 Frontend Developer at Fins.money (part of BSC)
 - ⚛️ Switched to frontend from science
 - 👨‍🎓 Graduated from Novosibirsk State University (MSc in Physics) and Institute of Laser Physics SB RAS (put on hold PhD dissertation in Optics)
 - 💻 Studied frontend development at [Yandex.Practicum](https://practicum.yandex.ru) (started in 2021)
-- 📍 Live in Novosibirsk, Russia 🇷🇺  but also consider relocating to St. Petersburg or Europe 🇳🇱 🇩🇪
+- 📍 Live in Novosibirsk, Russia 🇷🇺  but also consider relocating to St. Petersburg or Europe 🇳🇱 🇩🇪 
 - ✉️ You can reach me at maks.tropnikov@gmail.com
 
 **My CV: [Maksim Tropnikov.pdf](https://raw.githubusercontent.com/tropnikov/tropnikov/master/Maksim-Tropnikov-Frontend-CV.pdf)**

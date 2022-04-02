@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Maksim
 
-- 🏢 Frontend Developer at Fins.money (part of BSC)
+- 🏢 Frontend Developer at Fins.money (part of BCS)
 - ⚛️ Switched to frontend from science
 - 👨‍🎓 Graduated from Novosibirsk State University (MSc in Physics) and Institute of Laser Physics SB RAS (put on hold PhD dissertation in Optics)
 - 💻 Studied frontend development at [Yandex.Practicum](https://practicum.yandex.ru) (started in 2021)

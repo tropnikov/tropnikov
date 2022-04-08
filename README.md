@@ -45,6 +45,7 @@ Previously working as a junior researcher in physics (optics, to be specific), I
 - Telegram: https://t.me/tropnikov  
 
 ## CV
+* PDF: https://raw.githubusercontent.com/tropnikov/tropnikov/master/Maksim-Tropnikov-Frontend-CV.pdf
 * HeadHunter: https://novosibirsk.hh.ru/resume/a2b52938ff09aca2760039ed1f394a366b664d
 * Habr Career: https://career.habr.com/totmaks
 <!-- HeadHunter: https://novosibirsk.hh.ru/resume/9803f6c3ff07f93bae0039ed1f4a7351586950 -->

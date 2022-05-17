@@ -4,7 +4,7 @@
 - ⚛️ Switched to frontend from science
 - 👨‍🎓 Graduated from Novosibirsk State University (MSc in Physics) and Institute of Laser Physics SB RAS (put on hold PhD dissertation in Optics)
 - 💻 Studied frontend development at [Yandex.Practicum](https://practicum.yandex.ru) (started in 2021)
-- 📍 Live in Novosibirsk, Russia 🇷🇺  but also consider relocating to St. Petersburg or Europe 🇳🇱 🇩🇪 🇫🇷
+- 📍 Live in Novosibirsk, Russia 🇷🇺  but consider relocating to Europe 🇳🇱 🇩🇪 🇫🇷 or Canada 🇨🇦
 - ✉️ You can reach me at maks.tropnikov@gmail.com
 
 **My CV: [Maksim Tropnikov.pdf](https://raw.githubusercontent.com/tropnikov/tropnikov/master/Maksim-Tropnikov-Frontend-CV.pdf)**
@@ -13,9 +13,9 @@
 Interested both in front-end and full-stack development in JavaScript. Currently deepening my knowledge in React and Angular, and studying algorithms.
 
 My main stack (~~is MERN but not limited~~):
-- HTML, CSS  
+- HTML, CSS, SCSS/SASS, LESS  
 - JavaScript, TypeScript  
-- React, Angular  
+- React, Redux (Redux Toolkit)
 - Git, GitHub Flow  
 - BEM, OOP  
 - Node.js, Express  
@@ -29,7 +29,7 @@ Previously working as a junior researcher in physics (optics, to be specific), I
 
 ![HTML](https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5)  ![CSS](https://img.shields.io/badge/-CSS-20232A?style=for-the-badge&logo=css3)  ![SASS](https://img.shields.io/badge/-SASS-20232A?style=for-the-badge&logo=SASS) ![LESS](https://img.shields.io/badge/-LESS-20232A?style=for-the-badge&logo=LESS)  
 ![JS](https://img.shields.io/badge/-JavaScript-20232A?style=for-the-badge&logo=javascript)  ![TypeScript](https://img.shields.io/badge/-TypeScript-20232A?style=for-the-badge&logo=TypeScript)  
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react) ![Angular](https://img.shields.io/badge/-Angular-20232A?style=for-the-badge&logo=angular)  
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react) ![Redux](https://img.shields.io/badge/-Redux-20232A?style=for-the-badge&logo=redux)  ![Angular](https://img.shields.io/badge/-Angular-20232A?style=for-the-badge&logo=angular)  
 ![Node.js](https://img.shields.io/badge/-Node.js-20232A?style=for-the-badge&logo=node.js)  ![Express](https://img.shields.io/badge/-Express-20232A?style=for-the-badge&logo=Express)  ![Mongo](https://img.shields.io/badge/-Mongodb-20232A?style=for-the-badge&logo=MongoDB)  
 ![Git](https://img.shields.io/badge/-Git-20232A?style=for-the-badge&logo=git)  ![Webpack](https://img.shields.io/badge/-Webpack-20232A?style=for-the-badge&logo=webpack)  ![Gulp](https://img.shields.io/badge/-gulp-20232A?style=for-the-badge&logo=gulp)  ![PostCSS](https://img.shields.io/badge/-PostCSS-20232A?style=for-the-badge&logo=postcss)  
 ![OOP](https://img.shields.io/badge/-OOP-20232A?style=for-the-badge&logo=oop)  ![BEM](https://img.shields.io/badge/-BEM-20232A?style=for-the-badge&logo=BEM)  
@@ -37,12 +37,12 @@ Previously working as a junior researcher in physics (optics, to be specific), I
 
 ### Want to work with  
 
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)  ![React_Native](https://img.shields.io/badge/-React_Native-20232A?style=for-the-badge&logo=react)  ![Angular](https://img.shields.io/badge/-Angular-20232A?style=for-the-badge&logo=angular)  ![Typescript](https://img.shields.io/badge/-Typescript-20232A?style=for-the-badge&logo=typescript) ![Node.js](https://img.shields.io/badge/-Node.js-20232A?style=for-the-badge&logo=node.js)  
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)  ![React_Native](https://img.shields.io/badge/-React_Native-20232A?style=for-the-badge&logo=react)  ![Typescript](https://img.shields.io/badge/-Typescript-20232A?style=for-the-badge&logo=typescript) ![Node.js](https://img.shields.io/badge/-Node.js-20232A?style=for-the-badge&logo=node.js)  
 
 ### Languages and stuff
 - My English level is C1. (Also studied French a while ago up to A2).
 - I have experience of public speaking at international conferences and participating in international schools.
-- I am fond of photography, play some piano and I like to ride a bike.
+- I am fond of photography, play some piano and like to ride a bike.
 
 ## 🤝 Contacts
 - Email: maks.tropnikov@gmail.com
@@ -51,9 +51,10 @@ Previously working as a junior researcher in physics (optics, to be specific), I
 
 ## CV
 * PDF: https://raw.githubusercontent.com/tropnikov/tropnikov/master/Maksim-Tropnikov-Frontend-CV.pdf
-* HeadHunter: https://novosibirsk.hh.ru/resume/a2b52938ff09aca2760039ed1f394a366b664d
-* Habr Career: https://career.habr.com/totmaks
+* Resume.io: https://resume.io/r/t5KwCmffr
+* HabrCareer: https://career.habr.com/totmaks
 <!-- HeadHunter: https://novosibirsk.hh.ru/resume/9803f6c3ff07f93bae0039ed1f4a7351586950 -->
+<!-- * HeadHunter: https://novosibirsk.hh.ru/resume/a2b52938ff09aca2760039ed1f394a366b664d -->
 
 ## Statistics  
 

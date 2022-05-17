@@ -21,7 +21,6 @@ My main stack (~~is MERN but not limited~~):
 - Node.js, Express  
 - Webpack  
 - MongoDB  
-- Jest  
 
 Previously working as a junior researcher in physics (optics, to be specific), I gained expertise in theoretical and experimental research in the fields of laser physics, quantum optics and atomic standards. My research involved programing in C++, MatLab and the visual language G (LabVIEW). I designed and implemented thermostabilization system based on LabVIEW and using ADC-DAC, and theoretically modeled laser fields interacting with cooled atoms in MatLab.
 

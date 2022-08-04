@@ -1,16 +1,16 @@
 # Hi there 👋 I'm Maksim
 
-- 🏢 Frontend Developer at Fins.money (part of BCS)
+- 🏢 Frontend Developer at Fins.money (part of [BCS](https://bcs.ru/))
 - ⚛️ Switched to frontend from science
 - 👨‍🎓 Graduated from Novosibirsk State University (MSc in Physics) and Institute of Laser Physics SB RAS (put on hold PhD dissertation in Optics)
-- 💻 Studied frontend development at [Yandex.Practicum](https://practicum.yandex.ru) (started in 2021)
+- 💻 Studied frontend development at [Yandex.Practicum](https://practicum.yandex.ru)
 - 📍 Live in Novosibirsk, Russia 🇷🇺  but consider relocating to Europe 🇳🇱 🇩🇪 🇫🇷 or Canada 🇨🇦
-- ✉️ You can reach me at maks.tropnikov@gmail.com
+- ✉️ You can reach me at maks.tropnikov@gmail.com and via [telegram](https://t.me/tropnikov)
 
 **My CV: [Maksim Tropnikov.pdf](https://raw.githubusercontent.com/tropnikov/tropnikov/master/Maksim-Tropnikov-Frontend-CV.pdf)**
 
 
-Interested both in front-end and full-stack development in JavaScript. Currently deepening my knowledge in React and Angular, and studying algorithms.
+Interested both in front-end and full-stack development in JavaScript. Currently deepen my knowledge in React ecosystem and MERN stack, study algorithms.
 
 My main stack (~~is MERN but not limited~~):
 - HTML, CSS, SCSS/SASS, LESS  

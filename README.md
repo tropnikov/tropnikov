@@ -3,9 +3,9 @@
 - 🏢 Frontend Developer at Fins.money (part of [BCS](https://bcs.ru/))
 - ⚛️ Switched to frontend from science
 - 👨‍🎓 Graduated from Novosibirsk State University (MSc in Physics) and Institute of Laser Physics SB RAS (put on hold PhD dissertation in Optics)
-- 💻 Studied frontend development at [Yandex.Practicum](https://practicum.yandex.ru)
-- 📍 Live in Novosibirsk, Russia 🇷🇺  but consider relocating to Europe 🇳🇱 🇩🇪 🇫🇷 or Canada 🇨🇦
-- ✉️ You can reach me at maks.tropnikov@gmail.com and via [telegram](https://t.me/tropnikov)
+- 💻 Studied frontend development at [Yandex.Practicum](https://practicum.yandex.ru) ([certificate](https://disk.yandex.ru/i/s8kFqxkfaBz8FA)) and Hexlet ([profile](https://ru.hexlet.io/u/totmaks))
+- 📍 Currently in Istanbul, Turkey 🇹🇷. Consider relocating to Europe 🇳🇱 🇩🇪 🇫🇷 or Canada 🇨🇦
+- ✉️ You can reach me at [maks.tropnikov@gmail.com](mailto:maks.tropnikov@gmail.com) or via [telegram](https://t.me/tropnikov)
 
 **My CV: [Maksim Tropnikov.pdf](https://raw.githubusercontent.com/tropnikov/tropnikov/master/Maksim-Tropnikov-Frontend-CV.pdf)**
 
@@ -22,13 +22,13 @@ My main stack (~~is MERN but not limited~~):
 - Webpack  
 - MongoDB  
 
-Previously working as a junior researcher in physics (optics, to be specific), I gained expertise in theoretical and experimental research in the fields of laser physics, quantum optics and atomic standards. My research involved programing in C++, MatLab and the visual language G (LabVIEW). I designed and implemented thermostabilization system based on LabVIEW and using ADC-DAC, and theoretically modeled laser fields interacting with cooled atoms in MatLab.
+Previously working as a researcher in physics (optics, to be specific), I gained expertise in theoretical and experimental research in the fields of laser physics, quantum optics and atomic standards. My research involved programing in C++, MatLab and the visual language G (LabVIEW). I designed and implemented thermostabilization system based on LabVIEW and using ADC-DAC, and theoretically modeled laser fields interacting with cooled atoms in MatLab.
 
 ## Skills (~~wow badges such cool so modern~~)
 
 ![HTML](https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5)  ![CSS](https://img.shields.io/badge/-CSS-20232A?style=for-the-badge&logo=css3)  ![SASS](https://img.shields.io/badge/-SASS-20232A?style=for-the-badge&logo=SASS) ![LESS](https://img.shields.io/badge/-LESS-20232A?style=for-the-badge&logo=LESS)  
 ![JS](https://img.shields.io/badge/-JavaScript-20232A?style=for-the-badge&logo=javascript)  ![TypeScript](https://img.shields.io/badge/-TypeScript-20232A?style=for-the-badge&logo=TypeScript)  
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react) ![Redux](https://img.shields.io/badge/-Redux-20232A?style=for-the-badge&logo=redux)  ![Angular](https://img.shields.io/badge/-Angular-20232A?style=for-the-badge&logo=angular)  
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react) ![Redux](https://img.shields.io/badge/-Redux-20232A?style=for-the-badge&logo=redux)  
 ![Node.js](https://img.shields.io/badge/-Node.js-20232A?style=for-the-badge&logo=node.js)  ![Express](https://img.shields.io/badge/-Express-20232A?style=for-the-badge&logo=Express)  ![Mongo](https://img.shields.io/badge/-Mongodb-20232A?style=for-the-badge&logo=MongoDB)  
 ![Git](https://img.shields.io/badge/-Git-20232A?style=for-the-badge&logo=git)  ![Webpack](https://img.shields.io/badge/-Webpack-20232A?style=for-the-badge&logo=webpack)  ![Gulp](https://img.shields.io/badge/-gulp-20232A?style=for-the-badge&logo=gulp)  ![PostCSS](https://img.shields.io/badge/-PostCSS-20232A?style=for-the-badge&logo=postcss)  
 ![OOP](https://img.shields.io/badge/-OOP-20232A?style=for-the-badge&logo=oop)  ![BEM](https://img.shields.io/badge/-BEM-20232A?style=for-the-badge&logo=BEM)  
@@ -39,14 +39,14 @@ Previously working as a junior researcher in physics (optics, to be specific), I
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)  ![React_Native](https://img.shields.io/badge/-React_Native-20232A?style=for-the-badge&logo=react)  ![Typescript](https://img.shields.io/badge/-Typescript-20232A?style=for-the-badge&logo=typescript) ![Node.js](https://img.shields.io/badge/-Node.js-20232A?style=for-the-badge&logo=node.js)  
 
 ### Languages and stuff
-- My English level is C1. (Also studied French a while ago up to A2).
+- My English level is B2–C1. (Also studied French a while ago up to A2).
 - I have experience of public speaking at international conferences and participating in international schools.
 - I am fond of photography, play some piano and like to ride a bike.
 
 ## 🤝 Contacts
-- Email: maks.tropnikov@gmail.com
-- LinkedIn: https://www.linkedin.com/in/maksim-tropnikov
-- Telegram: https://t.me/tropnikov  
+- Email: [maks.tropnikov@gmail.com](mailto:maks.tropnikov@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/maksim-tropnikov](https://www.linkedin.com/in/maksim-tropnikov)
+- Telegram: [https://t.me/tropnikov](https://t.me/tropnikov)  
 
 ## CV
 * PDF: https://raw.githubusercontent.com/tropnikov/tropnikov/master/Maksim-Tropnikov-Frontend-CV.pdf
@@ -74,6 +74,9 @@ Previously working as a junior researcher in physics (optics, to be specific), I
 -->  
   
 ![Codewars](https://www.codewars.com/users/tropnikov/badges/large)
+
+![Metrics](https://metrics.lecoq.io/tropnikov?template=classic&base.indepth=true&base.header=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&config.timezone=Europe%2FIstanbul)
+
 
 <!--
 **tropnikov/tropnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

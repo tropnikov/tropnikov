@@ -58,11 +58,11 @@ Previously working as a researcher in physics (optics, to be specific), I gained
 ## Statistics  
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=tropnikov&count_private=true&show_icons=true&hide=contribs,issues&theme=react">
-<img align="left" height="130px" style="margin-right: 5px" src="https://github-readme-stats.vercel.app/api?username=tropnikov&count_private=true&show_icons=true&hide=contribs,issues&theme=react">
+<a href="https://github-readme-stats-git-master-makstropnikov.vercel.app/api?username=tropnikov&count_private=true&show_icons=true&hide=contribs,issues">
+<img align="left" height="130px" style="margin-right: 5px" src="https://github-readme-stats-git-master-makstropnikov.vercel.app/api?username=tropnikov&count_private=true&show_icons=true&hide=contribs,issues">
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tropnikov&layout=compact&theme=react">
-<img align="left" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tropnikov&layout=compact&theme=react"/>
+<a href="https://github-readme-stats-git-master-makstropnikov.vercel.app/api/top-langs/?username=tropnikov&layout=compact">
+<img align="left" height="130px" src="https://github-readme-stats-git-master-makstropnikov.vercel.app/api/top-langs/?username=tropnikov&layout=compact"/>
 </a>
 </div>  
 

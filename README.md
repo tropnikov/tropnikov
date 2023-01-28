@@ -47,6 +47,7 @@ Previously working as a researcher in physics (optics, to be specific), I gained
 - Email: [maks.tropnikov@gmail.com](mailto:maks.tropnikov@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/maksim-tropnikov](https://www.linkedin.com/in/maksim-tropnikov)
 - Telegram: [https://t.me/tropnikov](https://t.me/tropnikov)  
+- Matodon: <a rel="me" href="https://mastodon.social/@totmaks">https://mastodon.social/@totmaks</a>
 
 ## CV
 * PDF: https://raw.githubusercontent.com/tropnikov/tropnikov/master/Maksim-Tropnikov-Frontend-CV.pdf

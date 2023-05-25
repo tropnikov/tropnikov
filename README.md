@@ -4,7 +4,7 @@
 - ⚛️ Switched to frontend from science
 - 👨‍🎓 Graduated from Novosibirsk State University (MSc in Physics) and Institute of Laser Physics SB RAS (put on hold PhD dissertation in Optics)
 - 💻 Studied frontend development at [Yandex.Practicum](https://practicum.yandex.ru) ([certificate](https://drive.google.com/file/d/19rSLjjJNna8xR8Aznn1LoTYo3l0qbnvY/view?usp=share_link)) and Hexlet ([profile](https://ru.hexlet.io/u/totmaks))
-- 📍 Currently in Istanbul, Turkey 🇹🇷. Consider relocating to Europe 🇳🇱 🇩🇪 🇫🇷 or Canada 🇨🇦
+- 📍 Currently in Phuket, Thailand 🇹🇭. Consider relocating to Europe 🇳🇱 🇩🇪 🇫🇷 or Canada 🇨🇦
 - ✉️ You can reach me at [maks.tropnikov@gmail.com](mailto:maks.tropnikov@gmail.com) or via [telegram](https://t.me/tropnikov)
 
 **My CV: [Maksim Tropnikov.pdf](https://raw.githubusercontent.com/tropnikov/tropnikov/master/Maksim-Tropnikov-Frontend-CV.pdf)**
@@ -17,9 +17,10 @@ My main stack (~~is MERN but not limited~~):
 - JavaScript, TypeScript  
 - React, Redux (Redux Toolkit)
 - Git, GitHub Flow  
+- AntD, MUI
 - BEM, OOP  
 - Node.js, Express  
-- Webpack  
+- Webpack, Vite  
 - MongoDB  
 
 Previously working as a researcher in physics (optics, to be specific), I gained expertise in theoretical and experimental research in the fields of laser physics, quantum optics and atomic standards. My research involved programing in C++, MatLab and the visual language G (LabVIEW). I designed and implemented thermostabilization system based on LabVIEW and using ADC-DAC, and theoretically modeled laser fields interacting with cooled atoms in MatLab.
@@ -47,7 +48,7 @@ Previously working as a researcher in physics (optics, to be specific), I gained
 - Email: [maks.tropnikov@gmail.com](mailto:maks.tropnikov@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/maksim-tropnikov](https://www.linkedin.com/in/maksim-tropnikov)
 - Telegram: [https://t.me/tropnikov](https://t.me/tropnikov)  
-- Matodon: <a rel="me" href="https://mastodon.social/@totmaks">https://mastodon.social/@totmaks</a>
+- Mastodon: <a rel="me" href="https://mastodon.social/@totmaks">https://mastodon.social/@totmaks</a>
 
 ## CV
 * PDF: https://raw.githubusercontent.com/tropnikov/tropnikov/master/Maksim-Tropnikov-Frontend-CV.pdf

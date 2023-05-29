@@ -7,17 +7,18 @@
 - 📍 Currently in Phuket, Thailand 🇹🇭. Consider relocating to Europe 🇳🇱 🇩🇪 🇫🇷 or Canada 🇨🇦
 - ✉️ You can reach me at [maks.tropnikov@gmail.com](mailto:maks.tropnikov@gmail.com) or via [telegram](https://t.me/tropnikov)
 
-**My CV: [Maksim Tropnikov.pdf](https://raw.githubusercontent.com/tropnikov/tropnikov/master/Maksim-Tropnikov-Frontend-CV.pdf)**
+**My CV: [Maksim Tropnikov.pdf](https://raw.githubusercontent.com/tropnikov/tropnikov/master/Maksim-Tropnikov-Frontend-CV.pdf) (direct download)**  
+**or [PDF on Google Drive](https://drive.google.com/file/d/1QIxnHJB2VWbh3NhbWWjCfSXmvhWRBbb0/view?usp=sharing)**
 
 
 Interested both in front-end and full-stack development in JavaScript. Currently deepen my knowledge in React ecosystem and MERN stack, study algorithms.
 
 My main stack (~~is MERN but not limited~~):
-- HTML, CSS, SCSS/SASS, LESS  
+- HTML, CSS, SCSS/SASS, LESS, MJML  
 - JavaScript, TypeScript  
-- React, Redux (Redux Toolkit)
-- Git, GitHub Flow  
-- AntD, MUI
+- React, Redux (Redux Toolkit, Redux Saga)
+- Git 
+- Ant Design, Material UI
 - BEM, OOP  
 - Node.js, Express  
 - Webpack, Vite  
@@ -52,6 +53,7 @@ Previously working as a researcher in physics (optics, to be specific), I gained
 
 ## CV
 * PDF: https://raw.githubusercontent.com/tropnikov/tropnikov/master/Maksim-Tropnikov-Frontend-CV.pdf
+* PDF on Google Drive: https://drive.google.com/file/d/1QIxnHJB2VWbh3NhbWWjCfSXmvhWRBbb0/view?usp=sharing
 * Resume.io: https://resume.io/r/t5KwCmffr
 * HabrCareer: https://career.habr.com/totmaks
 <!-- HeadHunter: https://novosibirsk.hh.ru/resume/9803f6c3ff07f93bae0039ed1f4a7351586950 -->

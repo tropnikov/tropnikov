@@ -1,30 +1,31 @@
-# Hi there 👋 I'm Maksim
+# Hi, I'm Maksim 👋 
 
 - 🏢 Frontend Developer at Fins.money (part of [BCS](https://bcs.ru/))
 - ⚛️ Switched to frontend from science
-- 👨‍🎓 Graduated from Novosibirsk State University (MSc in Physics) and Institute of Laser Physics SB RAS (put on hold PhD dissertation in Optics)
+- 👨‍🎓 Graduated from Novosibirsk State University (MSc in Physics) and Institute of Laser Physics SB RAS (put on hold Ph.D. dissertation in Optics)
 - 💻 Studied frontend development at [Yandex.Practicum](https://practicum.yandex.ru) ([certificate](https://drive.google.com/file/d/19rSLjjJNna8xR8Aznn1LoTYo3l0qbnvY/view?usp=share_link)) and Hexlet ([profile](https://ru.hexlet.io/u/totmaks))
 - 📍 Currently in Phuket, Thailand 🇹🇭. Consider relocating to Europe 🇳🇱 🇩🇪 🇫🇷 or Canada 🇨🇦
 - ✉️ You can reach me at [maks.tropnikov@gmail.com](mailto:maks.tropnikov@gmail.com) or via [telegram](https://t.me/tropnikov)
 
-**My CV: [Maksim Tropnikov.pdf](https://raw.githubusercontent.com/tropnikov/tropnikov/master/Maksim-Tropnikov-Frontend-CV.pdf) (direct download)**  
-**or [PDF on Google Drive](https://drive.google.com/file/d/1QIxnHJB2VWbh3NhbWWjCfSXmvhWRBbb0/view?usp=sharing)**
+**My CV:**
+- **direct download [Maksim Tropnikov.pdf](https://raw.githubusercontent.com/tropnikov/tropnikov/master/Maksim-Tropnikov-Frontend-CV.pdf)**
+- **or [PDF on Google Drive](https://drive.google.com/file/d/1QIxnHJB2VWbh3NhbWWjCfSXmvhWRBbb0/view?usp=sharing)**
 
 
-Interested both in front-end and full-stack development in JavaScript. Currently deepen my knowledge in React ecosystem and MERN stack, study algorithms.
+Interested both in front-end and full-stack development in JavaScript/TypeScript. Currently deepening my knowledge in React ecosystem and MERN stack, studying algorithms.
 
 My main stack (~~is MERN but not limited~~):
 - HTML, CSS, SCSS/SASS, LESS, MJML  
 - JavaScript, TypeScript  
 - React, Redux (Redux Toolkit, Redux Saga)
-- Git 
+- Git, GitHub Flow 
 - Ant Design, Material UI
 - BEM, OOP  
 - Node.js, Express  
 - Webpack, Vite  
 - MongoDB  
 
-Previously working as a researcher in physics (optics, to be specific), I gained expertise in theoretical and experimental research in the fields of laser physics, quantum optics and atomic standards. My research involved programing in C++, MatLab and the visual language G (LabVIEW). I designed and implemented thermostabilization system based on LabVIEW and using ADC-DAC, and theoretically modeled laser fields interacting with cooled atoms in MatLab.
+Previously working as a researcher in physics (optics, to be specific), I gained expertise in theoretical and experimental research in the fields of laser physics, quantum optics, and atomic standards. My study involved programming in C++, MatLab, and the visual language G (LabVIEW). I designed and implemented a thermostabilization system based on LabVIEW and using ADC-DAC, and theoretically modeled laser fields interacting with cooled atoms in MatLab.
 
 ## Skills (~~wow badges such cool so modern~~)
 
@@ -41,9 +42,9 @@ Previously working as a researcher in physics (optics, to be specific), I gained
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)  ![React_Native](https://img.shields.io/badge/-React_Native-20232A?style=for-the-badge&logo=react)  ![Typescript](https://img.shields.io/badge/-Typescript-20232A?style=for-the-badge&logo=typescript) ![Node.js](https://img.shields.io/badge/-Node.js-20232A?style=for-the-badge&logo=node.js)  
 
 ### Languages and stuff
-- My English level is B2–C1. (Also studied French a while ago up to A2).
-- I have experience of public speaking at international conferences and participating in international schools.
-- I am fond of photography, play some piano and like to ride a bike.
+- My English level is B2–C1. (I also studied French a while ago up to A2).
+- I have experience in public speaking at international conferences and participating in international schools.
+- I am fond of photography, I play some piano, and I like to ride a bike.
 
 ## 🤝 Contacts
 - Email: [maks.tropnikov@gmail.com](mailto:maks.tropnikov@gmail.com)
@@ -96,3 +97,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+

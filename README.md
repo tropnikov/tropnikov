@@ -50,7 +50,7 @@ Previously working as a researcher in physics (optics, to be specific), I gained
 - Email: [maks.tropnikov@gmail.com](mailto:maks.tropnikov@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/maksim-tropnikov](https://www.linkedin.com/in/maksim-tropnikov)
 - Telegram: [https://t.me/tropnikov](https://t.me/tropnikov)  
-- Mastodon: <a rel="me" href="https://mastodon.social/@totmaks">https://mastodon.social/@totmaks</a>
+- <a rel="me" href="https://mastodon.social/@totmaks">Mastodon</a>: <a rel="me" href="https://mastodon.social/@totmaks">https://mastodon.social/@totmaks</a>
 
 ## CV
 * PDF: https://raw.githubusercontent.com/tropnikov/tropnikov/master/Maksim-Tropnikov-Frontend-CV.pdf
@@ -80,7 +80,9 @@ Previously working as a researcher in physics (optics, to be specific), I gained
   
 ![Codewars](https://www.codewars.com/users/tropnikov/badges/large)
 
+<!--
 ![Metrics](https://metrics.lecoq.io/tropnikov?template=classic&base.indepth=true&base.header=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&config.timezone=Europe%2FIstanbul)
+-->
 
 
 <!--

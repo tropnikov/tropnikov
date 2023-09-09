@@ -9,7 +9,7 @@
 
 **My CV:**
 - **direct download [Maksim Tropnikov.pdf](https://raw.githubusercontent.com/tropnikov/tropnikov/master/Maksim-Tropnikov-Frontend-CV.pdf)**
-- **or [PDF on Google Drive](https://drive.google.com/file/d/1QIxnHJB2VWbh3NhbWWjCfSXmvhWRBbb0/view?usp=sharing)**
+- **or [PDF on Google Drive](https://drive.google.com/file/d/1jAnjthpE0T8DqGjQjE6u_k1rVZUFWOQc/view?usp=sharing)**
 
 
 Interested both in front-end and full-stack development in JavaScript/TypeScript. Currently deepening my knowledge in React ecosystem and MERN stack, studying algorithms.
@@ -17,9 +17,9 @@ Interested both in front-end and full-stack development in JavaScript/TypeScript
 My main stack (~~is MERN but not limited~~):
 - HTML, CSS, SCSS/SASS, LESS, MJML  
 - JavaScript, TypeScript  
-- React, Redux (Redux Toolkit, Redux Saga)
+- React, Redux (Redux Toolkit, Redux Saga)  
 - Git, GitHub Flow 
-- Ant Design, Material UI
+- Ant Design, Material UI, Styled Components  
 - BEM, OOP  
 - Node.js, Express  
 - Webpack, Vite  

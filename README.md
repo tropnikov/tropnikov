@@ -7,14 +7,14 @@
 - 📍 Currently in Phuket, Thailand 🇹🇭. Consider relocating to Europe 🇳🇱 🇩🇪 🇫🇷 or Canada 🇨🇦
 - ✉️ You can reach me at [maks.tropnikov@gmail.com](mailto:maks.tropnikov@gmail.com) or via [telegram](https://t.me/tropnikov)
 
-**My CV:**
+#### My CV:
 - **direct download [Maksim Tropnikov.pdf](https://raw.githubusercontent.com/tropnikov/tropnikov/master/Maksim-Tropnikov-Frontend-CV.pdf)**
 - **or [PDF on Google Drive](https://drive.google.com/file/d/1jAnjthpE0T8DqGjQjE6u_k1rVZUFWOQc/view?usp=sharing)**
 
 
 Interested both in front-end and full-stack development in JavaScript/TypeScript.
 
-My main stack:
+#### My main stack:
 - HTML, CSS, SCSS/SASS, LESS, MJML  
 - JavaScript, TypeScript  
 - React, Redux (Redux Toolkit, Redux Saga)  

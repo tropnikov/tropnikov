@@ -1,6 +1,6 @@
 # Hi, I'm Maksim 👋 
 
-- 🏢 Frontend Developer at Fins.money (part of [BCS](https://bcs.ru/))
+- 🏢 Frontend Developer at [BCS Financial Group](https://bcs.ru/)
 - ⚛️ Switched to frontend from science
 - 👨‍🎓 Graduated from Novosibirsk State University (MSc in Physics) and Institute of Laser Physics SB RAS (put on hold Ph.D. dissertation in Optics)
 - 💻 Studied frontend development at [Yandex.Practicum](https://practicum.yandex.ru) ([certificate](https://drive.google.com/file/d/19rSLjjJNna8xR8Aznn1LoTYo3l0qbnvY/view?usp=share_link)) and Hexlet ([profile](https://ru.hexlet.io/u/totmaks))
@@ -12,9 +12,9 @@
 - **or [PDF on Google Drive](https://drive.google.com/file/d/1jAnjthpE0T8DqGjQjE6u_k1rVZUFWOQc/view?usp=sharing)**
 
 
-Interested both in front-end and full-stack development in JavaScript/TypeScript. Currently deepening my knowledge in React ecosystem and MERN stack, studying algorithms.
+Interested both in front-end and full-stack development in JavaScript/TypeScript.
 
-My main stack (~~is MERN but not limited~~):
+My main stack:
 - HTML, CSS, SCSS/SASS, LESS, MJML  
 - JavaScript, TypeScript  
 - React, Redux (Redux Toolkit, Redux Saga)  
@@ -23,9 +23,8 @@ My main stack (~~is MERN but not limited~~):
 - BEM, OOP  
 - Node.js, Express  
 - Webpack, Vite  
-- MongoDB  
 
-Previously working as a researcher in physics (optics, to be specific), I gained expertise in theoretical and experimental research in the fields of laser physics, quantum optics, and atomic standards. My study involved programming in C++, MatLab, and the visual language G (LabVIEW). I designed and implemented a thermostabilization system based on LabVIEW and using ADC-DAC, and theoretically modeled laser fields interacting with cooled atoms in MatLab.
+Previously working as a researcher in physics (optics, to be specific), I gained expertise in theoretical and experimental research in the fields of laser physics, quantum optics, and atomic standards. My study involved programming in C++, MatLab, and the visual language G (LabVIEW). I designed and implemented a thermostabilisation system based on LabVIEW and using ADC-DAC, and theoretically modeled laser fields interacting with cooled atoms in MatLab.
 
 ## Skills (~~wow badges such cool so modern~~)
 
@@ -44,7 +43,7 @@ Previously working as a researcher in physics (optics, to be specific), I gained
 ### Languages and stuff
 - My English level is B2–C1. (I also studied French a while ago up to A2).
 - I have experience in public speaking at international conferences and participating in international schools.
-- I am fond of photography, I play some piano, and I like to ride a bike.
+- I am fond of photography, play some piano, and I like to ride a bike.
 
 ## 🤝 Contacts
 - Email: [maks.tropnikov@gmail.com](mailto:maks.tropnikov@gmail.com)
@@ -56,7 +55,7 @@ Previously working as a researcher in physics (optics, to be specific), I gained
 
 ## CV
 * PDF: https://raw.githubusercontent.com/tropnikov/tropnikov/master/Maksim-Tropnikov-Frontend-CV.pdf
-* PDF on Google Drive: https://drive.google.com/file/d/1QIxnHJB2VWbh3NhbWWjCfSXmvhWRBbb0/view?usp=sharing
+* PDF on Google Drive: https://drive.google.com/file/d/1jAnjthpE0T8DqGjQjE6u_k1rVZUFWOQc/view?usp=sharing
 * Resume.io: https://resume.io/r/t5KwCmffr
 * HabrCareer: https://career.habr.com/totmaks
 <!-- HeadHunter: https://novosibirsk.hh.ru/resume/9803f6c3ff07f93bae0039ed1f4a7351586950 -->
@@ -80,7 +79,7 @@ Previously working as a researcher in physics (optics, to be specific), I gained
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tropnikov&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=tropnikov)  
 -->  
   
-![Codewars](https://www.codewars.com/users/tropnikov/badges/large)
+<!-- ![Codewars](https://www.codewars.com/users/tropnikov/badges/large) -->
 
 <!--
 ![Metrics](https://metrics.lecoq.io/tropnikov?template=classic&base.indepth=true&base.header=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&config.timezone=Europe%2FIstanbul)

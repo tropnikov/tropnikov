@@ -1,11 +1,11 @@
-# Hi, I'm Maksim 👋 
+# Hi, I'm Max 👋 
 
 - 🏢 Frontend Developer at [BCS Financial Group](https://bcs.ru/)
 - ⚛️ Switched to frontend from science
 - 👨‍🎓 Graduated from Novosibirsk State University (MSc in Physics) and Institute of Laser Physics SB RAS (put on hold Ph.D. dissertation in Optics)
 - 💻 Studied frontend development at [Yandex.Practicum](https://practicum.yandex.ru) ([certificate](https://drive.google.com/file/d/19rSLjjJNna8xR8Aznn1LoTYo3l0qbnvY/view?usp=share_link)) and Hexlet ([profile](https://ru.hexlet.io/u/totmaks))
 - 📍 Currently in Phuket, Thailand 🇹🇭. Consider relocating to Europe 🇳🇱 🇩🇪 🇫🇷 or Canada 🇨🇦
-- ✉️ You can reach me at [maks.tropnikov@gmail.com](mailto:maks.tropnikov@gmail.com) or via [telegram](https://t.me/tropnikov)
+- ✉️ You can reach me at [max@tropnikov.me](mailto:max@tropnikov.me) or via [telegram](https://t.me/tropnikov)
 
 #### My CV:
 - **direct download [Maksim Tropnikov.pdf](https://raw.githubusercontent.com/tropnikov/tropnikov/master/Maksim-Tropnikov-Frontend-CV.pdf)**
@@ -46,7 +46,7 @@ Previously working as a researcher in physics (optics, to be specific), I gained
 - I am fond of photography, play some piano, and I like to ride a bike.
 
 ## 🤝 Contacts
-- Email: [maks.tropnikov@gmail.com](mailto:maks.tropnikov@gmail.com)
+- Email: [max@tropnikov.me](mailto:max@tropnikov.me)
 - LinkedIn: [https://www.linkedin.com/in/maksim-tropnikov](https://www.linkedin.com/in/maksim-tropnikov)
 - Telegram: [https://t.me/tropnikov](https://t.me/tropnikov)  
 - Mastodon: <a rel="me" href="https://mastodon.social/@totmaks">https://mastodon.social/@totmaks</a>

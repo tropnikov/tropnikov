@@ -2,22 +2,22 @@
 
 - 🏢 Frontend Developer at [BCS Financial Group](https://bcs.ru/)
 - ⚛️ Switched to frontend from science
-- 👨‍🎓 Graduated from Novosibirsk State University (MSc in Physics) and Institute of Laser Physics SB RAS (put on hold Ph.D. dissertation in Optics)
+- 👨‍🎓 Graduated from Novosibirsk State University (MSc in Physics) and Institute of Laser Physics SB RAS (put on hold PhD dissertation in Optics)
 - 💻 Studied frontend development at [Yandex.Practicum](https://practicum.yandex.ru) ([certificate](https://drive.google.com/file/d/19rSLjjJNna8xR8Aznn1LoTYo3l0qbnvY/view?usp=share_link)) and Hexlet ([profile](https://ru.hexlet.io/u/totmaks))
 - 📍 Currently in Phuket, Thailand 🇹🇭. Consider relocating to Europe 🇳🇱 🇩🇪 🇫🇷 or Canada 🇨🇦
 - ✉️ You can reach me at [max@tropnikov.me](mailto:max@tropnikov.me) or via [telegram](https://t.me/tropnikov)
 
 #### My CV:
-- **direct download [Maksim Tropnikov.pdf](https://raw.githubusercontent.com/tropnikov/tropnikov/master/Maksim-Tropnikov-Frontend-CV.pdf)**
-- **or [PDF on Google Drive](https://drive.google.com/file/d/1jAnjthpE0T8DqGjQjE6u_k1rVZUFWOQc/view?usp=sharing)**
+- **direct download [Max Tropnikov.pdf](https://raw.githubusercontent.com/tropnikov/tropnikov/master/Max-Tropnikov-Frontend-CV.pdf)**
+- **or [PDF on Google Drive](https://drive.google.com/file/d/1ODAlEDXeeXsV5dAXbbTg2XdI6N6b0edy/view?usp=sharing)**
 
 
-Interested both in front-end and full-stack development in JavaScript/TypeScript.
+<!-- Interested both in front-end and full-stack development in JavaScript/TypeScript. -->
 
-#### My main stack:
+#### Main stack:
 - HTML, CSS, SCSS/SASS, LESS, MJML  
 - JavaScript, TypeScript  
-- React, Redux (Redux Toolkit, Redux Saga)  
+- React, Redux (RTK, RTK Query)  
 - Git, GitHub Flow 
 - Ant Design, Material UI, Styled Components  
 - BEM, OOP  
@@ -54,8 +54,8 @@ Previously working as a researcher in physics (optics, to be specific), I gained
 
 
 ## CV
-* PDF: https://raw.githubusercontent.com/tropnikov/tropnikov/master/Maksim-Tropnikov-Frontend-CV.pdf
-* PDF on Google Drive: https://drive.google.com/file/d/1jAnjthpE0T8DqGjQjE6u_k1rVZUFWOQc/view?usp=sharing
+* PDF: https://raw.githubusercontent.com/tropnikov/tropnikov/master/Max-Tropnikov-Frontend-CV.pdf
+* PDF on Google Drive: https://drive.google.com/file/d/1ODAlEDXeeXsV5dAXbbTg2XdI6N6b0edy/view?usp=sharing
 * Resume.io: https://resume.io/r/t5KwCmffr
 * HabrCareer: https://career.habr.com/totmaks
 <!-- HeadHunter: https://novosibirsk.hh.ru/resume/9803f6c3ff07f93bae0039ed1f4a7351586950 -->

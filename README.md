@@ -4,8 +4,8 @@
 - ⚛️ Switched to frontend from science
 - 👨‍🎓 Graduated from Novosibirsk State University (MSc in Physics) and Institute of Laser Physics SB RAS (put on hold PhD dissertation in Optics)
 - 💻 Studied frontend development at [Yandex.Practicum](https://practicum.yandex.ru) ([certificate](https://drive.google.com/file/d/19rSLjjJNna8xR8Aznn1LoTYo3l0qbnvY/view?usp=share_link)) and Hexlet ([profile](https://ru.hexlet.io/u/totmaks))
-- 📍 Currently in Phuket, Thailand 🇹🇭. Consider relocating to Europe 🇳🇱 🇩🇪 🇫🇷 or Canada 🇨🇦
-- ✉️ You can reach me at [max@tropnikov.me](mailto:max@tropnikov.me) or via [telegram](https://t.me/tropnikov)
+- 📍 Currently in Phuket, Thailand 🇹🇭. Considering relocation to Europe 🇳🇱 🇩🇪 🇫🇷 or Canada 🇨🇦
+- ✉️ You can reach me at [max@tropnikov.dev](mailto:max@tropnikov.dev) or via [telegram](https://t.me/tropnikov)
 
 #### My CV:
 - **direct download [Max Tropnikov.pdf](https://raw.githubusercontent.com/tropnikov/tropnikov/master/Max-Tropnikov-Frontend-CV.pdf)**
@@ -28,25 +28,48 @@ Previously working as a researcher in physics (optics, to be specific), I gained
 
 ## Skills (~~wow badges such cool so modern~~)
 
-![HTML](https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5)  ![CSS](https://img.shields.io/badge/-CSS-20232A?style=for-the-badge&logo=css3)  ![SASS](https://img.shields.io/badge/-SASS-20232A?style=for-the-badge&logo=SASS) ![LESS](https://img.shields.io/badge/-LESS-20232A?style=for-the-badge&logo=LESS)  
-![JS](https://img.shields.io/badge/-JavaScript-20232A?style=for-the-badge&logo=javascript)  ![TypeScript](https://img.shields.io/badge/-TypeScript-20232A?style=for-the-badge&logo=TypeScript)  
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react) ![Redux](https://img.shields.io/badge/-Redux-20232A?style=for-the-badge&logo=redux)  
-![Node.js](https://img.shields.io/badge/-Node.js-20232A?style=for-the-badge&logo=node.js)  ![Express](https://img.shields.io/badge/-Express-20232A?style=for-the-badge&logo=Express)  ![Mongo](https://img.shields.io/badge/-Mongodb-20232A?style=for-the-badge&logo=MongoDB)  
-![Git](https://img.shields.io/badge/-Git-20232A?style=for-the-badge&logo=git)  ![Webpack](https://img.shields.io/badge/-Webpack-20232A?style=for-the-badge&logo=webpack)  ![Gulp](https://img.shields.io/badge/-gulp-20232A?style=for-the-badge&logo=gulp)  ![PostCSS](https://img.shields.io/badge/-PostCSS-20232A?style=for-the-badge&logo=postcss)  
-![OOP](https://img.shields.io/badge/-OOP-20232A?style=for-the-badge&logo=oop)  ![BEM](https://img.shields.io/badge/-BEM-20232A?style=for-the-badge&logo=BEM)  
-![VS Code](https://img.shields.io/badge/-VS_Code-20232A?style=for-the-badge&logo=visualstudiocode)  ![WebStorm](https://img.shields.io/badge/-WebStorm-20232A?style=for-the-badge&logo=WebStorm)  ![Figma](https://img.shields.io/badge/-Figma-20232A?style=for-the-badge&logo=figma)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![LESS](https://img.shields.io/badge/-LESS-1d375d?style=for-the-badge&logo=LESS)  
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![RTK](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![RTKToolkit](https://img.shields.io/badge/RTK_Query-593D88?style=for-the-badge&logo=redux&logoColor=white)  
+![AntDesign](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)
+![MUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![SC](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)  
+![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  
+![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<!-- ![OOP](https://img.shields.io/badge/-OOP-20232A?style=for-the-badge&logo=OOP) -->
+<!-- ![BEM](https://img.shields.io/badge/-BEM-20232A?style=for-the-badge&logo=BEM) -->
 
 ### Want to work with  
 
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)  ![React_Native](https://img.shields.io/badge/-React_Native-20232A?style=for-the-badge&logo=react)  ![Typescript](https://img.shields.io/badge/-Typescript-20232A?style=for-the-badge&logo=typescript) ![Node.js](https://img.shields.io/badge/-Node.js-20232A?style=for-the-badge&logo=node.js)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React_Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<!-- 
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white) -->
 
 ### Languages and stuff
-- My English level is B2–C1. (I also studied French a while ago up to A2).
+- My English level is B2–C1. (I also studied French a while ago up to A1).
 - I have experience in public speaking at international conferences and participating in international schools.
 - I am fond of photography, play some piano, and I like to ride a bike.
 
 ## 🤝 Contacts
-- Email: [max@tropnikov.me](mailto:max@tropnikov.me)
+- Email: [max@tropnikov.dev](mailto:max@tropnikov.dev)
 - LinkedIn: [https://www.linkedin.com/in/maksim-tropnikov](https://www.linkedin.com/in/maksim-tropnikov)
 - Telegram: [https://t.me/tropnikov](https://t.me/tropnikov)  
 - Mastodon: <a rel="me" href="https://mastodon.social/@totmaks">https://mastodon.social/@totmaks</a>

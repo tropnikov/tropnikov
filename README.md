@@ -15,11 +15,11 @@
 <!-- Interested both in front-end and full-stack development in JavaScript/TypeScript. -->
 
 #### Main stack:
-- HTML, CSS, SCSS/SASS, LESS, MJML  
+- HTML, CSS, SCSS/SASS, LESS  
 - JavaScript, TypeScript  
-- React, Redux (RTK, RTK Query)  
+- React, Redux (Redux Toolkit, RTK Query)  
 - Git, GitHub Flow 
-- Ant Design, Material UI, Styled Components  
+- Ant Design, Material UI, Styled Components, Storybook  
 - BEM, OOP  
 - Node.js, Express  
 - Webpack, Vite  
@@ -84,6 +84,7 @@ Previously working as a researcher in physics (optics, to be specific), I gained
 <!-- HeadHunter: https://novosibirsk.hh.ru/resume/9803f6c3ff07f93bae0039ed1f4a7351586950 -->
 <!-- * HeadHunter: https://novosibirsk.hh.ru/resume/a2b52938ff09aca2760039ed1f394a366b664d -->
 
+<!-- 
 ## Statistics  
 
 <div>
@@ -93,7 +94,7 @@ Previously working as a researcher in physics (optics, to be specific), I gained
 <a href="https://github-readme-stats-git-master-makstropnikov.vercel.app/api/top-langs/?username=tropnikov&layout=compact">
 <img align="left" height="130px" src="https://github-readme-stats-git-master-makstropnikov.vercel.app/api/top-langs/?username=tropnikov&layout=compact"/>
 </a>
-</div>  
+</div>   -->
 
 <!--
 [![Tropnikov GitHub stats](https://github-readme-stats.vercel.app/api?username=tropnikov&count_private=true&show_icons=true&hide=contribs,issues)

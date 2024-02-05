@@ -1,30 +1,24 @@
 # Hi, I'm Max 👋 
 
-- 🏢 Frontend Developer at [BCS Financial Group](https://bcs.ru/)
-- ⚛️ Switched to frontend from science
-- 👨‍🎓 Graduated from Novosibirsk State University (MSc in Physics) and Institute of Laser Physics SB RAS (put on hold PhD dissertation in Optics)
-- 💻 Studied frontend development at [Yandex.Practicum](https://practicum.yandex.ru) ([certificate](https://drive.google.com/file/d/19rSLjjJNna8xR8Aznn1LoTYo3l0qbnvY/view?usp=share_link)) and Hexlet ([profile](https://ru.hexlet.io/u/totmaks))
-- 📍 Currently in Phuket, Thailand 🇹🇭. Considering relocation to Europe 🇳🇱 🇩🇪 🇫🇷 or Canada 🇨🇦
+- 🏢 Frontend Developer at [BCS Financial Group](https://bcs.ru/)  
+- 👨‍🎓 Graduated from Novosibirsk State University (MSc in Physics)  
+- 📍 Currently in Phuket, Thailand 🇹🇭. Considering relocation to Europe 🇳🇱 🇩🇪 🇫🇷 or Canada 🇨🇦  
 - ✉️ You can reach me at [max@tropnikov.dev](mailto:max@tropnikov.dev) or via [telegram](https://t.me/tropnikov)
 
-#### My CV:
+### My CV:
 - **direct download [Max Tropnikov.pdf](https://raw.githubusercontent.com/tropnikov/tropnikov/master/Max-Tropnikov-Frontend-CV.pdf)**
 - **or [PDF on Google Drive](https://drive.google.com/file/d/1ODAlEDXeeXsV5dAXbbTg2XdI6N6b0edy/view?usp=sharing)**
 
 
-<!-- Interested both in front-end and full-stack development in JavaScript/TypeScript. -->
-
-#### Main stack:
+### Main stack:
 - HTML, CSS, SCSS/SASS, LESS  
 - JavaScript, TypeScript  
 - React, Redux (Redux Toolkit, RTK Query)  
 - Git, GitHub Flow 
-- Ant Design, Material UI, Styled Components, Storybook  
+- Ant Design, Material UI, CSS-in-JS (styled-components, emotion), Storybook  
 - BEM, OOP  
 - Node.js, Express  
 - Webpack, Vite  
-
-Previously working as a researcher in physics (optics, to be specific), I gained expertise in theoretical and experimental research in the fields of laser physics, quantum optics, and atomic standards. My study involved programming in C++, MatLab, and the visual language G (LabVIEW). I designed and implemented a thermostabilisation system based on LabVIEW and using ADC-DAC, and theoretically modeled laser fields interacting with cooled atoms in MatLab.
 
 ## Skills (~~wow badges such cool so modern~~)
 
@@ -64,16 +58,15 @@ Previously working as a researcher in physics (optics, to be specific), I gained
 ![NestJS](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white) -->
 
 ### Languages and stuff
-- My English level is B2–C1. (I also studied French a while ago up to A1).
-- I have experience in public speaking at international conferences and participating in international schools.
-- I am fond of photography, play some piano, and I like to ride a bike.
+- My English level is B2–C1. (Also studied French a while ago up to A1).
+- Experienced in public speaking at international conferences and participating in international schools.
+<!-- - I am fond of photography, play some piano, and I like to ride a bike. -->
 
 ## 🤝 Contacts
 - Email: [max@tropnikov.dev](mailto:max@tropnikov.dev)
 - LinkedIn: [https://www.linkedin.com/in/maksim-tropnikov](https://www.linkedin.com/in/maksim-tropnikov)
 - Telegram: [https://t.me/tropnikov](https://t.me/tropnikov)  
 - Mastodon: <a rel="me" href="https://mastodon.social/@totmaks">https://mastodon.social/@totmaks</a>
-<!-- <a rel="me" href="https://mastodon.social/@totmaks">Mastodon</a> -->
 
 
 ## CV
@@ -81,8 +74,6 @@ Previously working as a researcher in physics (optics, to be specific), I gained
 * PDF on Google Drive: https://drive.google.com/file/d/1ODAlEDXeeXsV5dAXbbTg2XdI6N6b0edy/view?usp=sharing
 * Resume.io: https://resume.io/r/t5KwCmffr
 * HabrCareer: https://career.habr.com/totmaks
-<!-- HeadHunter: https://novosibirsk.hh.ru/resume/9803f6c3ff07f93bae0039ed1f4a7351586950 -->
-<!-- * HeadHunter: https://novosibirsk.hh.ru/resume/a2b52938ff09aca2760039ed1f394a366b664d -->
 
 <!-- 
 ## Statistics  

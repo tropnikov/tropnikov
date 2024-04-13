@@ -14,11 +14,9 @@
 - HTML, CSS, SCSS/SASS, LESS  
 - JavaScript, TypeScript  
 - React, Redux (Redux Toolkit, RTK Query)  
-- Git, GitHub Flow 
+- Git, GitHub Flow, BEM, OOP  
 - Ant Design, Material UI, CSS-in-JS (styled-components, emotion), Storybook  
-- BEM, OOP  
-- Node.js, Express  
-- Webpack, Vite  
+- Node.js, Express, Webpack, Vite  
 
 ## Skills (~~wow badges such cool so modern~~)
 
@@ -48,14 +46,13 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 <!-- ![OOP](https://img.shields.io/badge/-OOP-20232A?style=for-the-badge&logo=OOP) -->
 <!-- ![BEM](https://img.shields.io/badge/-BEM-20232A?style=for-the-badge&logo=BEM) -->
-
+<!-- 
 ### Want to work with  
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React_Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React_Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
 <!-- 
-![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white) -->
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)-->
 
 ### Languages and stuff
 - My English level is B2–C1. (Also studied French a while ago up to A1).
@@ -72,8 +69,12 @@
 ## CV
 * PDF: https://raw.githubusercontent.com/tropnikov/tropnikov/master/Max-Tropnikov-Frontend-CV.pdf
 * PDF on Google Drive: https://drive.google.com/file/d/1ODAlEDXeeXsV5dAXbbTg2XdI6N6b0edy/view?usp=sharing
-* Resume.io: https://resume.io/r/t5KwCmffr
-* HabrCareer: https://career.habr.com/totmaks
+* Resume.io: https://resume.io/r/t5KwCmffr  
+<!-- * HabrCareer: https://career.habr.com/totmaks -->
+
+---
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=orangemaks&width=854&count=3)
 
 <!-- 
 ## Statistics  
@@ -98,22 +99,6 @@
 
 <!--
 ![Metrics](https://metrics.lecoq.io/tropnikov?template=classic&base.indepth=true&base.header=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&config.timezone=Europe%2FIstanbul)
--->
-
-
-<!--
-**tropnikov/tropnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 

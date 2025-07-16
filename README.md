@@ -6,6 +6,8 @@
 - ✉️ Email me — [max@tropnikov.dev](mailto:max@tropnikov.dev)
 - 📱 Send telegrams and stickers — [https://t.me/tropnikov](https://t.me/tropnikov)
 - 📄 CV — [Max-Tropnikov-CV-Frontend.pdf](https://raw.githubusercontent.com/tropnikov/tropnikov/master/Max-Tropnikov-CV-Frontend.pdf) / [Google Drive](https://bit.ly/tropnikov-cv)
+
+![Profile Views](https://komarev.com/ghpvc/?username=tropnikov&color=brightgreen)
   
 ## 🛠 Tech Stack
 
@@ -59,12 +61,5 @@ Whole time in IDEs:
 - PDF: https://raw.githubusercontent.com/tropnikov/tropnikov/master/Max-Tropnikov-CV-Frontend.pdf
 - Google Drive: https://drive.google.com/file/d/1ODAlEDXeeXsV5dAXbbTg2XdI6N6b0edy/view?usp=sharing
 
----  
-
 <!-- [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=orangemaks&width=854&count=3)](https://www.last.fm/user/orangemaks) -->
-
-
-![Visitor Count](https://profile-counter.glitch.me/tropnikov/count.svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=tropnikov&color=brightgreen)
 
